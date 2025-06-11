@@ -12,7 +12,7 @@ We are searching for the private key to the following Bitcoin address:
 1PWo3JeB9jrGwfHDNpdGK54CRas7fsVzXU
 ```
 
-This is part of the well-known [Bitcoin Public Key Puzzles](https://bitcointalk.org/index.php?topic=5372024.0), specifically **Puzzle #71**.
+This is part of the well-known [Bitcoin Public Key Puzzles](https://bitcointalk.org/index.php?topic=1306983), specifically **Puzzle #71**.
 
 ---
 
@@ -83,7 +83,7 @@ We **do not** condone using this tool to scan arbitrary wallets or addresses.
 
 - [VanitySearch by Jean-Luc Pons](https://github.com/JeanLucPons/VanitySearch)
 - Coordination Server built in Python (Flask + SQLite)
-- Community challenge via [bitcointalk.org](https://bitcointalk.org/index.php?topic=5372024.0)
+- Community challenge via [bitcointalk.org](https://bitcointalk.org/index.php?topic=1306983)
 
 ---
 
